@@ -11,7 +11,7 @@ puts "A opção letra você terá a chance de jogar o jogo da forca"
 puts "Ou digite s para sair"
 opcao = gets.chomp.to_s
 
-#final = false
+#commitando
 
 	if opcao == "s"
 		

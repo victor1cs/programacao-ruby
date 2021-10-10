@@ -1,0 +1,7 @@
+gato
+cachorro
+pato
+avestruz
+macaco
+girafa
+burro
